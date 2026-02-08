@@ -1,5 +1,11 @@
 package ru.hse.lab1.second;
 
+/*
+@author - Райцын Роман Вадимович
+@version - 1.0
+@since - 2026
+*/
+
 public class Person {
 
     public String name;

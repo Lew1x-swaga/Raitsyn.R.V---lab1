@@ -1,6 +1,12 @@
 package ru.hse.lab1;
+
 import ru.hse.lab1.second.Person;
 
+/*
+@author - Райцын Роман Вадимович
+@version - 1.0
+@since - 2026
+*/
 
 public class Main {
     void main(){
